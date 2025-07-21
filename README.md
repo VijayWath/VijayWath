@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VijayWath
-- 👀 I’m interested in app development and backend
-- 🌱 I’m currently learning nginx 
+- 👀 I’m interested in MCU programming and Embedded Systems
+- 🌱 I’m currently learning CPP with espidf 
 - 📫 if you want to reach me mail at vijaywath19171380@gmail.com 
 - 😄 Pronouns: Gulabjamun
 - ⚡ Fun fact: 70% of software developers code as a hobby
